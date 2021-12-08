@@ -1,4 +1,10 @@
-### Hi there 👋
+
+## My Github Stats
+
+<div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=finedaybreak&show_icons=true&layout=compact&hide=stars&count_private=true" alt="Wong Yichen's GitHub Stats"/>
+  <img height="150em" alt="Wong Yichen's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finedaybreak&layout=compact&count_private=true&hide=html" />
+</div>
 
 <!--
 **finedaybreak/finedaybreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
